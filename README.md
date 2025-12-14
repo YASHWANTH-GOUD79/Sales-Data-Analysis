@@ -83,15 +83,15 @@ Sales-Data-Analysis/
 ##  Data Visualizations
 
 ### Sales by Region
-![Sales_b_ Region](<img width="597" height="481" alt="sales by region" src="https://github.com/user-attachments/assets/c6ce3858-e362-4b49-9277-4fe3a9c8dc0d" />)
+![Sales_by_ Region]<img width="597" height="481" alt="sales by region" src="https://github.com/user-attachments/assets/c6ce3858-e362-4b49-9277-4fe3a9c8dc0d" />
 
 
 ### Sales by Product
-![Sales_by_Product](<img width="598" height="489" alt="sales by product" src="https://github.com/user-attachments/assets/e1230a9a-8d84-421a-be6e-03e436866f69" />)
+![Sales_by_Product]<img width="598" height="489" alt="sales by product" src="https://github.com/user-attachments/assets/e1230a9a-8d84-421a-be6e-03e436866f69" />
 
 
 ### Monthly Sales Trend
-![Monthly_Sales_Trend](<img width="589" height="455" alt="monthly sales trend" src="https://github.com/user-attachments/assets/cbb77819-03bf-40c8-a03b-3755ceb0cef4" />)
+![Monthly_Sales_Trend]<img width="589" height="455" alt="monthly sales trend" src="https://github.com/user-attachments/assets/cbb77819-03bf-40c8-a03b-3755ceb0cef4" />
 
 
 ## Conclusion
