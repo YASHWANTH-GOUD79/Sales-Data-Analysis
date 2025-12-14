@@ -70,10 +70,15 @@ This is my **first Data Analyst project**, built to demonstrate practical data a
 
 ```
 Sales-Data-Analysis/
+│── images/
+│   ├── sales_by_region.png
+│   ├── sales_by_product.png
+│   ├── monthly_sales_trend.png
 │── sales.csv
 │── sales.sql
 │── sales_analysis.ipynb
 │── README.md
+
 ```
 ##  Data Visualizations
 
