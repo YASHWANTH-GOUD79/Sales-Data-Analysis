@@ -78,13 +78,13 @@ Sales-Data-Analysis/
 ##  Data Visualizations
 
 ### Sales by Region
-![Sales by Region](images/sales_by_region.png)
+![Sales by Region]("C:\Users\yashw\Downloads\sales by region")
 
 ### Sales by Product
-![Sales by Product](images/sales_by_product.png)
+![Sales by Product]("C:\Users\yashw\Downloads\sales by product")
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Trend]("C:\Users\yashw\Downloads\monthly sales trend")
 
 ## Conclusion
 
