@@ -75,7 +75,16 @@ Sales-Data-Analysis/
 │── sales_analysis.ipynb
 │── README.md
 ```
+##  Data Visualizations
 
+### Sales by Region
+![Sales by Region](images/sales_by_region.png)
+
+### Sales by Product
+![Sales by Product](images/sales_by_product.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.png)
 
 ## Conclusion
 
