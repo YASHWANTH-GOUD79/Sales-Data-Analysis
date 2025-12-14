@@ -1,0 +1,11 @@
+order_id,order_date,product,category,region,sales,quantity
+1001,2024-01-31,Laptop,Technology,East,75000,2
+1002,2024-02-29,Phone,Technology,West,45000,3
+1003,2024-03-31,Chair,Furniture,South,12000,5
+1004,2024-04-30,Desk,Furniture,North,22000,2
+1005,2024-05-31,Printer,Technology,East,18000,1
+1006,2024-06-30,Laptop,Technology,West,80000,2
+1007,2024-07-31,Phone,Technology,South,47000,3
+1008,2024-08-31,Chair,Furniture,North,15000,4
+1009,2024-09-30,Desk,Furniture,East,24000,2
+1010,2024-10-31,Printer,Technology,West,20000,1
